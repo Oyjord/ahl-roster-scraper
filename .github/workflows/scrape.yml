@@ -17,6 +17,9 @@ jobs:
         with:
           ruby-version: '3.2'
 
+      - name: Install ahl_scraper gem
+        run: gem install ahl_scraper
+
       - name: Run scraper
         run: ruby scrape_reign.rb
 
