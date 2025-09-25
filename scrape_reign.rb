@@ -1,25 +1,21 @@
 require 'ahl_scraper'
 require 'json'
+require 'date'  # ✅ Add this to parse dates
 
-# Ontario Reign team ID: 369
-# Use a recent season ID—let's fetch the latest regular season
-season = AhlScraper::Seasons.list.find { |s| s.name.include?("Regular") }
-
-unless season
-  puts "❌ No regular season found"
-  exit 1
-end
-
-team_id = 369
-season_id = season.id
-
-puts "🔍 Scraping Ontario Reign roster for season #{season.name} (ID: #{season_id})"
+team_id = 403  # Ontario Reign
+season_id = 90 # current Regular Season maybe but empty
 
 players = AhlScraper::RosterPlayers.retrieve_all(team_id, season_id).map do |player|
+  birth_year = begin
+    Date.parse(player.birthdate).year
+  rescue
+    nil
+  end
+
   {
     full_name: player.name,
     position: player.position,
-    birth_year: player.birthdate&.year,
+    birth_year: birth_year,
     jersey_number: player.jersey_number,
     profile_url: "https://theahl.com/player/#{player.id}"
   }
