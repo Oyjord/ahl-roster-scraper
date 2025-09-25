@@ -1,3 +1,254 @@
 [
-
+  {
+    "full_name": "Brett Sutter",
+    "position": "C",
+    "birth_year": 1987,
+    "jersey_number": 7,
+    "profile_url": "https://theahl.com/player/1994"
+  },
+  {
+    "full_name": "Blaine Byron",
+    "position": "LW",
+    "birth_year": 1995,
+    "jersey_number": 12,
+    "profile_url": "https://theahl.com/player/6805"
+  },
+  {
+    "full_name": "Akil Thomas",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 14,
+    "profile_url": "https://theahl.com/player/7682"
+  },
+  {
+    "full_name": "Lias Andersson",
+    "position": "C",
+    "birth_year": 1998,
+    "jersey_number": 15,
+    "profile_url": "https://theahl.com/player/6959"
+  },
+  {
+    "full_name": "Devante Smith-Pelly",
+    "position": "RW",
+    "birth_year": 1992,
+    "jersey_number": 25,
+    "profile_url": "https://theahl.com/player/4407"
+  },
+  {
+    "full_name": "Martin Chromiak",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 28,
+    "profile_url": "https://theahl.com/player/8714"
+  },
+  {
+    "full_name": "Martin Frk",
+    "position": "RW",
+    "birth_year": 1993,
+    "jersey_number": 29,
+    "profile_url": "https://theahl.com/player/5018"
+  },
+  {
+    "full_name": "Nick Halloran",
+    "position": "F",
+    "birth_year": 1997,
+    "jersey_number": 32,
+    "profile_url": "https://theahl.com/player/8390"
+  },
+  {
+    "full_name": "Alex Turcotte",
+    "position": "C",
+    "birth_year": 2001,
+    "jersey_number": 39,
+    "profile_url": "https://theahl.com/player/8523"
+  },
+  {
+    "full_name": "Adam Johnson",
+    "position": "LW",
+    "birth_year": 1994,
+    "jersey_number": 49,
+    "profile_url": "https://theahl.com/player/6886"
+  },
+  {
+    "full_name": "Quinton Byfield",
+    "position": "C",
+    "birth_year": 2002,
+    "jersey_number": 55,
+    "profile_url": "https://theahl.com/player/8389"
+  },
+  {
+    "full_name": "Rasmus Kupari",
+    "position": "C",
+    "birth_year": 2000,
+    "jersey_number": 9,
+    "profile_url": "https://theahl.com/player/7684"
+  },
+  {
+    "full_name": "Samuel Fagemo",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 11,
+    "profile_url": "https://theahl.com/player/7680"
+  },
+  {
+    "full_name": "Johan Sodergran",
+    "position": "LW",
+    "birth_year": 1999,
+    "jersey_number": 13,
+    "profile_url": "https://theahl.com/player/7683"
+  },
+  {
+    "full_name": "Bokondji Imama",
+    "position": "LW",
+    "birth_year": 1996,
+    "jersey_number": 18,
+    "profile_url": "https://theahl.com/player/6865"
+  },
+  {
+    "full_name": "Drake Rymsha",
+    "position": "C",
+    "birth_year": 1998,
+    "jersey_number": 19,
+    "profile_url": "https://theahl.com/player/7283"
+  },
+  {
+    "full_name": "Mikey Eyssimont",
+    "position": "LW",
+    "birth_year": 1996,
+    "jersey_number": 21,
+    "profile_url": "https://theahl.com/player/7079"
+  },
+  {
+    "full_name": "Tyler Madden",
+    "position": "F",
+    "birth_year": 1999,
+    "jersey_number": 27,
+    "profile_url": "https://theahl.com/player/8391"
+  },
+  {
+    "full_name": "Arthur Kaliyev",
+    "position": "F",
+    "birth_year": 2001,
+    "jersey_number": 34,
+    "profile_url": "https://theahl.com/player/7677"
+  },
+  {
+    "full_name": "Jacob Doty",
+    "position": "RW",
+    "birth_year": 1993,
+    "jersey_number": 37,
+    "profile_url": "https://theahl.com/player/5592"
+  },
+  {
+    "full_name": "Aidan Dudas",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 47,
+    "profile_url": "https://theahl.com/player/7604"
+  },
+  {
+    "full_name": "Cole Hults",
+    "position": "D",
+    "birth_year": 1998,
+    "jersey_number": 3,
+    "profile_url": "https://theahl.com/player/8392"
+  },
+  {
+    "full_name": "Mark Alt",
+    "position": "D",
+    "birth_year": 1991,
+    "jersey_number": 5,
+    "profile_url": "https://theahl.com/player/4915"
+  },
+  {
+    "full_name": "Sean Durzi",
+    "position": "D",
+    "birth_year": 1998,
+    "jersey_number": 6,
+    "profile_url": "https://theahl.com/player/7302"
+  },
+  {
+    "full_name": "Kale Clague",
+    "position": "D",
+    "birth_year": 1998,
+    "jersey_number": 10,
+    "profile_url": "https://theahl.com/player/7152"
+  },
+  {
+    "full_name": "Nick Boka",
+    "position": "D",
+    "birth_year": 1997,
+    "jersey_number": 22,
+    "profile_url": "https://theahl.com/player/7515"
+  },
+  {
+    "full_name": "Cameron Gaunce",
+    "position": "D",
+    "birth_year": 1990,
+    "jersey_number": 24,
+    "profile_url": "https://theahl.com/player/3811"
+  },
+  {
+    "full_name": "Markus Phillips",
+    "position": "D",
+    "birth_year": 1999,
+    "jersey_number": 26,
+    "profile_url": "https://theahl.com/player/7689"
+  },
+  {
+    "full_name": "Jack Sadek",
+    "position": "D",
+    "birth_year": 1997,
+    "jersey_number": 38,
+    "profile_url": "https://theahl.com/player/7574"
+  },
+  {
+    "full_name": "Jacob Moverare",
+    "position": "D",
+    "birth_year": 1998,
+    "jersey_number": 43,
+    "profile_url": "https://theahl.com/player/8393"
+  },
+  {
+    "full_name": "Austin Strand",
+    "position": "D",
+    "birth_year": 1997,
+    "jersey_number": 2,
+    "profile_url": "https://theahl.com/player/7117"
+  },
+  {
+    "full_name": "Daniel Brickley",
+    "position": "D",
+    "birth_year": 1995,
+    "jersey_number": 8,
+    "profile_url": "https://theahl.com/player/7425"
+  },
+  {
+    "full_name": "Troy Grosenick",
+    "position": "G",
+    "birth_year": 1989,
+    "jersey_number": 1,
+    "profile_url": "https://theahl.com/player/4994"
+  },
+  {
+    "full_name": "Matthew Villalta",
+    "position": "G",
+    "birth_year": 1999,
+    "jersey_number": 31,
+    "profile_url": "https://theahl.com/player/7692"
+  },
+  {
+    "full_name": "Jean-Francois Berube",
+    "position": "G",
+    "birth_year": 1991,
+    "jersey_number": 35,
+    "profile_url": "https://theahl.com/player/3621"
+  },
+  {
+    "full_name": "Jacob Ingham",
+    "position": "G",
+    "birth_year": 2000,
+    "jersey_number": 68,
+    "profile_url": "https://theahl.com/player/7600"
+  }
 ]
