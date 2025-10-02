@@ -1,3 +1,23 @@
 [
-
+  {
+    "full_name": "Koehn Ziemmer",
+    "position": "F",
+    "birth_year": 2004,
+    "jersey_number": 13,
+    "profile_url": "https://theahl.com/player/9785"
+  },
+  {
+    "full_name": "Kenny Connors",
+    "position": "F",
+    "birth_year": null,
+    "jersey_number": 57,
+    "profile_url": "https://theahl.com/player/10705"
+  },
+  {
+    "full_name": "Aatu Jämsen",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 74,
+    "profile_url": "https://theahl.com/player/9241"
+  }
 ]
