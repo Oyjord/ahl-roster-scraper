@@ -19,5 +19,12 @@
     "birth_year": 2003,
     "jersey_number": 74,
     "profile_url": "https://theahl.com/player/9241"
+  },
+  {
+    "full_name": "John Parker-Jones",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 95,
+    "profile_url": "https://theahl.com/player/9517"
   }
 ]
