@@ -1,9 +1,9 @@
 require 'ahl_scraper'
 require 'json'
-require 'date'  # ✅ For parsing birthdates
+require 'date'
 
 team_id = 403  # Ontario Reign
-season_id = 89 # Current Regular Season
+season_id = 89 # current Regular Season
 
 players = AhlScraper::RosterPlayers.retrieve_all(team_id, season_id).map do |player|
   birth_year = begin
@@ -18,7 +18,7 @@ players = AhlScraper::RosterPlayers.retrieve_all(team_id, season_id).map do |pla
     birth_year: birth_year,
     jersey_number: player.jersey_number,
     profile_url: "https://theahl.com/player/#{player.id}",
-    headshot: player.headshot # ✅ Add this line if AhlScraper exposes it
+    headshot: "https://assets.leaguestat.com/ahl/240x240/#{player.id}.jpg" # ✅ build URL
   }
 end
 
