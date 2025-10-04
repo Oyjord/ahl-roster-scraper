@@ -64,20 +64,20 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10859.jpg"
   },
   {
+    "full_name": "Francesco Pinelli",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 71,
+    "profile_url": "https://theahl.com/player/9239",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
+  },
+  {
     "full_name": "Keaton Mastrodonato",
     "position": "F",
     "birth_year": 1999,
     "jersey_number": 72,
     "profile_url": "https://theahl.com/player/9663",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9663.jpg"
-  },
-  {
-    "full_name": "Francesco Pinelli",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 73,
-    "profile_url": "https://theahl.com/player/9239",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
   },
   {
     "full_name": "Jared Wright",
@@ -120,14 +120,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10707.jpg"
   },
   {
-    "full_name": "Samuel Bolduc",
-    "position": "D",
-    "birth_year": 2000,
-    "jersey_number": 3,
-    "profile_url": "https://theahl.com/player/7822",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
-  },
-  {
     "full_name": "Otto Salin",
     "position": "D",
     "birth_year": 2004,
@@ -142,6 +134,14 @@
     "jersey_number": 12,
     "profile_url": "https://theahl.com/player/10616",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
+  },
+  {
+    "full_name": "Kirill Kirsanov",
+    "position": "D",
+    "birth_year": null,
+    "jersey_number": 19,
+    "profile_url": "https://theahl.com/player/10712",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10712.jpg"
   },
   {
     "full_name": "Timothy Lovell",
@@ -168,12 +168,12 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10199.jpg"
   },
   {
-    "full_name": "Kirill Kirsanov",
+    "full_name": "Samuel Bolduc",
     "position": "D",
-    "birth_year": null,
-    "jersey_number": 78,
-    "profile_url": "https://theahl.com/player/10712",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10712.jpg"
+    "birth_year": 2000,
+    "jersey_number": 58,
+    "profile_url": "https://theahl.com/player/7822",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
   },
   {
     "full_name": "Parker Berge",
