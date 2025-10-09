@@ -18,7 +18,7 @@
   {
     "full_name": "Kenny Connors",
     "position": "F",
-    "birth_year": null,
+    "birth_year": 2003,
     "jersey_number": 17,
     "profile_url": "https://theahl.com/player/10705",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
@@ -50,7 +50,7 @@
   {
     "full_name": "Jack Hughes",
     "position": "F",
-    "birth_year": null,
+    "birth_year": 2003,
     "jersey_number": 47,
     "profile_url": "https://theahl.com/player/10715",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10715.jpg"
@@ -138,7 +138,7 @@
   {
     "full_name": "Kirill Kirsanov",
     "position": "D",
-    "birth_year": null,
+    "birth_year": 2002,
     "jersey_number": 19,
     "profile_url": "https://theahl.com/player/10712",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10712.jpg"
@@ -160,7 +160,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10125.jpg"
   },
   {
-    "full_name": "Jakub Dvorak",
+    "full_name": "Jakub Dvořák",
     "position": "D",
     "birth_year": 2005,
     "jersey_number": 55,
