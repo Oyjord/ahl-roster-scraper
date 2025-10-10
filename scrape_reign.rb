@@ -3,7 +3,7 @@ require 'json'
 require 'date'
 
 team_id = 403  # Ontario Reign
-season_id = 89 # current Regular Season
+season_id = 90 # current Regular Season
 
 players = AhlScraper::RosterPlayers.retrieve_all(team_id, season_id).map do |player|
   birth_year = begin
