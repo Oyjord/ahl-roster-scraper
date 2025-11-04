@@ -128,6 +128,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9517.jpg"
   },
   {
+    "full_name": "Kyle Burroughs",
+    "position": "D",
+    "birth_year": 1995,
+    "jersey_number": 7,
+    "profile_url": "https://theahl.com/player/5478",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/5478.jpg"
+  },
+  {
     "full_name": "Otto Salin",
     "position": "D",
     "birth_year": 2004,
@@ -190,14 +198,6 @@
     "jersey_number": 58,
     "profile_url": "https://theahl.com/player/7822",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
-  },
-  {
-    "full_name": "Kyle Burroughs",
-    "position": "D",
-    "birth_year": 1995,
-    "jersey_number": 88,
-    "profile_url": "https://theahl.com/player/5478",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/5478.jpg"
   },
   {
     "full_name": "Erik Portillo",
