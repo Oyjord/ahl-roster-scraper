@@ -1,13 +1,5 @@
 [
   {
-    "full_name": "Nikita Alexandrov",
-    "position": "C",
-    "birth_year": 2000,
-    "jersey_number": 0,
-    "profile_url": "https://theahl.com/player/8718",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/8718.jpg"
-  },
-  {
     "full_name": "Martin Chromiak",
     "position": "F",
     "birth_year": 2002,
@@ -78,6 +70,14 @@
     "jersey_number": 47,
     "profile_url": "https://theahl.com/player/10715",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10715.jpg"
+  },
+  {
+    "full_name": "Nikita Alexandrov",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 59,
+    "profile_url": "https://theahl.com/player/8718",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/8718.jpg"
   },
   {
     "full_name": "Francesco Pinelli",
