@@ -152,6 +152,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10567.jpg"
   },
   {
+    "full_name": "Tim Rego",
+    "position": "D",
+    "birth_year": 2000,
+    "jersey_number": 12,
+    "profile_url": "https://theahl.com/player/10616",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
+  },
+  {
     "full_name": "Kirill Kirsanov",
     "position": "D",
     "birth_year": 2002,
@@ -190,6 +198,14 @@
     "jersey_number": 58,
     "profile_url": "https://theahl.com/player/7822",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
+  },
+  {
+    "full_name": "Parker Berge",
+    "position": "D",
+    "birth_year": 2003,
+    "jersey_number": 79,
+    "profile_url": "https://theahl.com/player/10201",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10201.jpg"
   },
   {
     "full_name": "Erik Portillo",
