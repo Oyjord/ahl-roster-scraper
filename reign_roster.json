@@ -56,14 +56,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5592.jpg"
   },
   {
-    "full_name": "Kenta Isogai",
-    "position": "F",
-    "birth_year": 2004,
-    "jersey_number": 46,
-    "profile_url": "https://theahl.com/player/10703",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10703.jpg"
-  },
-  {
     "full_name": "Jack Hughes",
     "position": "F",
     "birth_year": 2003,
@@ -206,5 +198,13 @@
     "jersey_number": 29,
     "profile_url": "https://theahl.com/player/5658",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5658.jpg"
+  },
+  {
+    "full_name": "Isaiah Saville",
+    "position": "G",
+    "birth_year": 2000,
+    "jersey_number": 49,
+    "profile_url": "https://theahl.com/player/9052",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9052.jpg"
   }
 ]
