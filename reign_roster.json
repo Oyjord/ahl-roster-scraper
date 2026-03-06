@@ -16,6 +16,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9785.jpg"
   },
   {
+    "full_name": "Kenny Connors",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 17,
+    "profile_url": "https://theahl.com/player/10705",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
+  },
+  {
     "full_name": "Glenn Gawdin",
     "position": "F",
     "birth_year": 1997,
@@ -86,6 +94,14 @@
     "jersey_number": 72,
     "profile_url": "https://theahl.com/player/9663",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9663.jpg"
+  },
+  {
+    "full_name": "Jared Wright",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 78,
+    "profile_url": "https://theahl.com/player/10623",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10623.jpg"
   },
   {
     "full_name": "Cole Guttman",
