@@ -80,14 +80,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
   },
   {
-    "full_name": "Keaton Mastrodonato",
-    "position": "F",
-    "birth_year": 1999,
-    "jersey_number": 72,
-    "profile_url": "https://theahl.com/player/9663",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9663.jpg"
-  },
-  {
     "full_name": "Jan Jeník",
     "position": "F",
     "birth_year": 2000,
@@ -184,9 +176,9 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
   },
   {
-    "full_name": "Michael Mastro",
+    "full_name": "Michael Mastrodomenico",
     "position": "D",
-    "birth_year": null,
+    "birth_year": 2004,
     "jersey_number": 96,
     "profile_url": "https://theahl.com/player/10997",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10997.jpg"
