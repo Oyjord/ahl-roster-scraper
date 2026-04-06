@@ -16,6 +16,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9785.jpg"
   },
   {
+    "full_name": "Grant Slukynsky",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 15,
+    "profile_url": "https://theahl.com/player/11051",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11051.jpg"
+  },
+  {
     "full_name": "Kenny Connors",
     "position": "F",
     "birth_year": 2003,
@@ -94,6 +102,14 @@
     "jersey_number": 73,
     "profile_url": "https://theahl.com/player/7713",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7713.jpg"
+  },
+  {
+    "full_name": "Jan Chovan",
+    "position": "F",
+    "birth_year": 2007,
+    "jersey_number": 76,
+    "profile_url": "https://theahl.com/player/10708",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10708.jpg"
   },
   {
     "full_name": "Cole Guttman",
@@ -184,6 +200,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10199.jpg"
   },
   {
+    "full_name": "Henry Brzustewicz",
+    "position": "D",
+    "birth_year": 2007,
+    "jersey_number": 68,
+    "profile_url": "https://theahl.com/player/10711",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10711.jpg"
+  },
+  {
     "full_name": "Nikita Novikov",
     "position": "D",
     "birth_year": 2003,
@@ -206,5 +230,13 @@
     "jersey_number": 29,
     "profile_url": "https://theahl.com/player/5658",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5658.jpg"
+  },
+  {
+    "full_name": "Hampton Slukynsky",
+    "position": "G",
+    "birth_year": 2005,
+    "jersey_number": 50,
+    "profile_url": "https://theahl.com/player/11050",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11050.jpg"
   }
 ]
