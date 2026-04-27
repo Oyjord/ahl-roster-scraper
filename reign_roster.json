@@ -120,6 +120,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7713.jpg"
   },
   {
+    "full_name": "Jared Wright",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 78,
+    "profile_url": "https://theahl.com/player/10623",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10623.jpg"
+  },
+  {
     "full_name": "Cole Guttman",
     "position": "F",
     "birth_year": 1999,
@@ -166,14 +174,6 @@
     "jersey_number": 76,
     "profile_url": "https://theahl.com/player/10708",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10708.jpg"
-  },
-  {
-    "full_name": "Jared Wright",
-    "position": "F",
-    "birth_year": 2002,
-    "jersey_number": 78,
-    "profile_url": "https://theahl.com/player/10623",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10623.jpg"
   },
   {
     "full_name": "John Parker-Jones",
