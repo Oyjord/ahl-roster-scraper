@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "Nikita Alexandrov",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 59,
+    "profile_url": "https://theahl.com/player/8718",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/8718.jpg"
+  },
+  {
+    "full_name": "Jan Jeník",
+    "position": "F",
+    "birth_year": 2000,
+    "jersey_number": 73,
+    "profile_url": "https://theahl.com/player/7713",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/7713.jpg"
+  },
+  {
+    "full_name": "Cole Guttman",
+    "position": "F",
+    "birth_year": 1999,
+    "jersey_number": 81,
+    "profile_url": "https://theahl.com/player/9357",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9357.jpg"
+  },
+  {
     "full_name": "Martin Chromiak",
     "position": "F",
     "birth_year": 2002,
@@ -22,6 +46,14 @@
     "jersey_number": 14,
     "profile_url": "https://theahl.com/player/7682",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7682.jpg"
+  },
+  {
+    "full_name": "Grant Slukynsky",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 15,
+    "profile_url": "https://theahl.com/player/11051",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11051.jpg"
   },
   {
     "full_name": "Kenny Connors",
@@ -56,6 +88,22 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9081.jpg"
   },
   {
+    "full_name": "Taylor Ward",
+    "position": "F",
+    "birth_year": 1998,
+    "jersey_number": 34,
+    "profile_url": "https://theahl.com/player/9043",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
+  },
+  {
+    "full_name": "Brendan Gorman",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 36,
+    "profile_url": "https://theahl.com/player/11021",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11021.jpg"
+  },
+  {
     "full_name": "Jacob Doty",
     "position": "F",
     "birth_year": 1993,
@@ -80,84 +128,12 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10715.jpg"
   },
   {
-    "full_name": "Nikita Alexandrov",
-    "position": "F",
-    "birth_year": 2000,
-    "jersey_number": 59,
-    "profile_url": "https://theahl.com/player/8718",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/8718.jpg"
-  },
-  {
     "full_name": "Francesco Pinelli",
     "position": "F",
     "birth_year": 2003,
     "jersey_number": 71,
     "profile_url": "https://theahl.com/player/9239",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
-  },
-  {
-    "full_name": "Jan Jeník",
-    "position": "F",
-    "birth_year": 2000,
-    "jersey_number": 73,
-    "profile_url": "https://theahl.com/player/7713",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/7713.jpg"
-  },
-  {
-    "full_name": "Jared Wright",
-    "position": "F",
-    "birth_year": 2002,
-    "jersey_number": 78,
-    "profile_url": "https://theahl.com/player/10623",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10623.jpg"
-  },
-  {
-    "full_name": "Cole Guttman",
-    "position": "F",
-    "birth_year": 1999,
-    "jersey_number": 81,
-    "profile_url": "https://theahl.com/player/9357",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9357.jpg"
-  },
-  {
-    "full_name": "Aatu Jämsen",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 86,
-    "profile_url": "https://theahl.com/player/9241",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
-  },
-  {
-    "full_name": "Logan Brown",
-    "position": "F",
-    "birth_year": 1998,
-    "jersey_number": 91,
-    "profile_url": "https://theahl.com/player/7362",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/7362.jpg"
-  },
-  {
-    "full_name": "Grant Slukynsky",
-    "position": "F",
-    "birth_year": 2002,
-    "jersey_number": 15,
-    "profile_url": "https://theahl.com/player/11051",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/11051.jpg"
-  },
-  {
-    "full_name": "Taylor Ward",
-    "position": "F",
-    "birth_year": 1998,
-    "jersey_number": 34,
-    "profile_url": "https://theahl.com/player/9043",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
-  },
-  {
-    "full_name": "Brendan Gorman",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 36,
-    "profile_url": "https://theahl.com/player/11021",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/11021.jpg"
   },
   {
     "full_name": "Keaton Mastrodonato",
@@ -176,12 +152,60 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10708.jpg"
   },
   {
+    "full_name": "Jared Wright",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 78,
+    "profile_url": "https://theahl.com/player/10623",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10623.jpg"
+  },
+  {
+    "full_name": "Aatu Jämsen",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 86,
+    "profile_url": "https://theahl.com/player/9241",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
+  },
+  {
+    "full_name": "Logan Brown",
+    "position": "F",
+    "birth_year": 1998,
+    "jersey_number": 91,
+    "profile_url": "https://theahl.com/player/7362",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/7362.jpg"
+  },
+  {
     "full_name": "John Parker-Jones",
     "position": "F",
     "birth_year": 2000,
     "jersey_number": 95,
     "profile_url": "https://theahl.com/player/9517",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9517.jpg"
+  },
+  {
+    "full_name": "Tim Rego",
+    "position": "D",
+    "birth_year": 2000,
+    "jersey_number": 12,
+    "profile_url": "https://theahl.com/player/10616",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
+  },
+  {
+    "full_name": "Samuel Bolduc",
+    "position": "D",
+    "birth_year": 2000,
+    "jersey_number": 58,
+    "profile_url": "https://theahl.com/player/7822",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
+  },
+  {
+    "full_name": "Nikita Novikov",
+    "position": "D",
+    "birth_year": 2003,
+    "jersey_number": 74,
+    "profile_url": "https://theahl.com/player/9930",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
   },
   {
     "full_name": "Kyle Burroughs",
@@ -200,12 +224,12 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10567.jpg"
   },
   {
-    "full_name": "Tim Rego",
+    "full_name": "Michael Mastrodomenico",
     "position": "D",
-    "birth_year": 2000,
-    "jersey_number": 12,
-    "profile_url": "https://theahl.com/player/10616",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
+    "birth_year": 2004,
+    "jersey_number": 14,
+    "profile_url": "https://theahl.com/player/10997",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10997.jpg"
   },
   {
     "full_name": "Kirill Kirsanov",
@@ -246,30 +270,6 @@
     "jersey_number": 55,
     "profile_url": "https://theahl.com/player/10199",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10199.jpg"
-  },
-  {
-    "full_name": "Samuel Bolduc",
-    "position": "D",
-    "birth_year": 2000,
-    "jersey_number": 58,
-    "profile_url": "https://theahl.com/player/7822",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
-  },
-  {
-    "full_name": "Nikita Novikov",
-    "position": "D",
-    "birth_year": 2003,
-    "jersey_number": 74,
-    "profile_url": "https://theahl.com/player/9930",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
-  },
-  {
-    "full_name": "Michael Mastrodomenico",
-    "position": "D",
-    "birth_year": 2004,
-    "jersey_number": 14,
-    "profile_url": "https://theahl.com/player/10997",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10997.jpg"
   },
   {
     "full_name": "Henry Brzustewicz",
