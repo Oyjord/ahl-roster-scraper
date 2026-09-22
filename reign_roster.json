@@ -24,7 +24,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
   },
   {
-    "full_name": "Kaleb Lawrence",
+    "full_name": "KALEB LAWRENCE",
     "position": "F",
     "birth_year": 2003,
     "jersey_number": 22,
@@ -32,7 +32,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9245.jpg"
   },
   {
-    "full_name": "Brendan Gorman",
+    "full_name": "BRENDAN GORMAN",
     "position": "F",
     "birth_year": 2003,
     "jersey_number": 36,
@@ -40,7 +40,15 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/11021.jpg"
   },
   {
-    "full_name": "Kenta Isogai",
+    "full_name": "JACOB DOTY",
+    "position": "F",
+    "birth_year": 1993,
+    "jersey_number": 37,
+    "profile_url": "https://theahl.com/player/5592",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/5592.jpg"
+  },
+  {
+    "full_name": "KENTA ISOGAI",
     "position": "F",
     "birth_year": 2004,
     "jersey_number": 46,
@@ -48,7 +56,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10703.jpg"
   },
   {
-    "full_name": "Jack Hughes",
+    "full_name": "JACK HUGHES",
     "position": "F",
     "birth_year": 2003,
     "jersey_number": 47,
@@ -136,14 +144,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
   },
   {
-    "full_name": "Jacob Doty",
-    "position": "F",
-    "birth_year": 1993,
-    "jersey_number": 37,
-    "profile_url": "https://theahl.com/player/5592",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/5592.jpg"
-  },
-  {
     "full_name": "Francesco Pinelli",
     "position": "F",
     "birth_year": 2003,
@@ -200,7 +200,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
   },
   {
-    "full_name": "Michael Mastrodomenico",
+    "full_name": "MICHAEL MASTRODOMENICO",
     "position": "D",
     "birth_year": 2004,
     "jersey_number": 14,
@@ -214,6 +214,14 @@
     "jersey_number": 19,
     "profile_url": "https://theahl.com/player/10712",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10712.jpg"
+  },
+  {
+    "full_name": "JACK MILLAR",
+    "position": "D",
+    "birth_year": 2000,
+    "jersey_number": 45,
+    "profile_url": "https://theahl.com/player/10125",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10125.jpg"
   },
   {
     "full_name": "Jakub Dvořák",
@@ -232,7 +240,7 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7822.jpg"
   },
   {
-    "full_name": "Henry Brzustewicz",
+    "full_name": "HENRY BRZUSTEWICZ",
     "position": "D",
     "birth_year": 2007,
     "jersey_number": 68,
@@ -272,20 +280,20 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5976.jpg"
   },
   {
-    "full_name": "Jack Millar",
-    "position": "D",
-    "birth_year": 2000,
-    "jersey_number": 45,
-    "profile_url": "https://theahl.com/player/10125",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10125.jpg"
-  },
-  {
     "full_name": "Parker Berge",
     "position": "D",
     "birth_year": 2003,
     "jersey_number": 79,
     "profile_url": "https://theahl.com/player/10201",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10201.jpg"
+  },
+  {
+    "full_name": "MATTIAS SHOLL",
+    "position": "G",
+    "birth_year": 2000,
+    "jersey_number": 33,
+    "profile_url": "https://theahl.com/player/10714",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10714.jpg"
   },
   {
     "full_name": "Isaiah Saville",
@@ -318,13 +326,5 @@
     "jersey_number": 29,
     "profile_url": "https://theahl.com/player/5658",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5658.jpg"
-  },
-  {
-    "full_name": "Mattias Sholl",
-    "position": "G",
-    "birth_year": 2000,
-    "jersey_number": 33,
-    "profile_url": "https://theahl.com/player/10714",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10714.jpg"
   }
 ]
