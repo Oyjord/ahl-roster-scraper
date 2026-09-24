@@ -104,6 +104,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9357.jpg"
   },
   {
+    "full_name": "Aatu Jämsen",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 86,
+    "profile_url": "https://theahl.com/player/9241",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
+  },
+  {
     "full_name": "Martin Chromiak",
     "position": "F",
     "birth_year": 2002,
@@ -160,14 +168,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9663.jpg"
   },
   {
-    "full_name": "Aatu Jämsen",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 86,
-    "profile_url": "https://theahl.com/player/9241",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
-  },
-  {
     "full_name": "Logan Brown",
     "position": "F",
     "birth_year": 1998,
@@ -216,6 +216,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10712.jpg"
   },
   {
+    "full_name": "Angus Booth",
+    "position": "D",
+    "birth_year": 2004,
+    "jersey_number": 24,
+    "profile_url": "https://theahl.com/player/9249",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9249.jpg"
+  },
+  {
     "full_name": "Jack Millar",
     "position": "D",
     "birth_year": 2000,
@@ -262,14 +270,6 @@
     "jersey_number": 7,
     "profile_url": "https://theahl.com/player/5478",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5478.jpg"
-  },
-  {
-    "full_name": "Angus Booth",
-    "position": "D",
-    "birth_year": 2004,
-    "jersey_number": 24,
-    "profile_url": "https://theahl.com/player/9249",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9249.jpg"
   },
   {
     "full_name": "Joe Hicketts",
