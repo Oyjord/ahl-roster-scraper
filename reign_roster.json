@@ -72,6 +72,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/8718.jpg"
   },
   {
+    "full_name": "Francesco Pinelli",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 71,
+    "profile_url": "https://theahl.com/player/9239",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
+  },
+  {
     "full_name": "Jan Jeník",
     "position": "F",
     "birth_year": 2000,
@@ -152,14 +160,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
   },
   {
-    "full_name": "Francesco Pinelli",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 71,
-    "profile_url": "https://theahl.com/player/9239",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9239.jpg"
-  },
-  {
     "full_name": "Keaton Mastrodonato",
     "position": "F",
     "birth_year": 1999,
@@ -232,6 +232,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9249.jpg"
   },
   {
+    "full_name": "Joe Hicketts",
+    "position": "D",
+    "birth_year": 1996,
+    "jersey_number": 27,
+    "profile_url": "https://theahl.com/player/5976",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/5976.jpg"
+  },
+  {
     "full_name": "Jack Millar",
     "position": "D",
     "birth_year": 2000,
@@ -272,28 +280,12 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
   },
   {
-    "full_name": "Joe Hicketts",
-    "position": "D",
-    "birth_year": 1996,
-    "jersey_number": 27,
-    "profile_url": "https://theahl.com/player/5976",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/5976.jpg"
-  },
-  {
     "full_name": "Parker Berge",
     "position": "D",
     "birth_year": 2003,
     "jersey_number": 79,
     "profile_url": "https://theahl.com/player/10201",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10201.jpg"
-  },
-  {
-    "full_name": "Mattias Sholl",
-    "position": "G",
-    "birth_year": 2000,
-    "jersey_number": 33,
-    "profile_url": "https://theahl.com/player/10714",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10714.jpg"
   },
   {
     "full_name": "Isaiah Saville",
@@ -326,5 +318,13 @@
     "jersey_number": 29,
     "profile_url": "https://theahl.com/player/5658",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5658.jpg"
+  },
+  {
+    "full_name": "Mattias Sholl",
+    "position": "G",
+    "birth_year": 2000,
+    "jersey_number": 33,
+    "profile_url": "https://theahl.com/player/10714",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10714.jpg"
   }
 ]
