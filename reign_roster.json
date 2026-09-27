@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "Martin Chromiak",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 8,
+    "profile_url": "https://theahl.com/player/8714",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/8714.jpg"
+  },
+  {
     "full_name": "Koehn Ziemmer",
     "position": "F",
     "birth_year": 2004,
@@ -24,12 +32,28 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
   },
   {
+    "full_name": "Glenn Gawdin",
+    "position": "F",
+    "birth_year": 1997,
+    "jersey_number": 21,
+    "profile_url": "https://theahl.com/player/6784",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/6784.jpg"
+  },
+  {
     "full_name": "Kaleb Lawrence",
     "position": "F",
     "birth_year": 2003,
     "jersey_number": 22,
     "profile_url": "https://theahl.com/player/9245",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9245.jpg"
+  },
+  {
+    "full_name": "Taylor Ward",
+    "position": "F",
+    "birth_year": 1998,
+    "jersey_number": 34,
+    "profile_url": "https://theahl.com/player/9043",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
   },
   {
     "full_name": "Brendan Gorman",
@@ -120,14 +144,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
   },
   {
-    "full_name": "Martin Chromiak",
-    "position": "F",
-    "birth_year": 2002,
-    "jersey_number": 8,
-    "profile_url": "https://theahl.com/player/8714",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/8714.jpg"
-  },
-  {
     "full_name": "Akil Thomas",
     "position": "F",
     "birth_year": 2000,
@@ -136,28 +152,12 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7682.jpg"
   },
   {
-    "full_name": "Glenn Gawdin",
-    "position": "F",
-    "birth_year": 1997,
-    "jersey_number": 21,
-    "profile_url": "https://theahl.com/player/6784",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/6784.jpg"
-  },
-  {
     "full_name": "Andre Lee",
     "position": "F",
     "birth_year": 2000,
     "jersey_number": 26,
     "profile_url": "https://theahl.com/player/9081",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9081.jpg"
-  },
-  {
-    "full_name": "Taylor Ward",
-    "position": "F",
-    "birth_year": 1998,
-    "jersey_number": 34,
-    "profile_url": "https://theahl.com/player/9043",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
   },
   {
     "full_name": "Keaton Mastrodonato",
@@ -288,22 +288,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10201.jpg"
   },
   {
-    "full_name": "Isaiah Saville",
-    "position": "G",
-    "birth_year": 2000,
-    "jersey_number": 49,
-    "profile_url": "https://theahl.com/player/9052",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/9052.jpg"
-  },
-  {
-    "full_name": "Hampton Slukynsky",
-    "position": "G",
-    "birth_year": 2005,
-    "jersey_number": 50,
-    "profile_url": "https://theahl.com/player/11050",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/11050.jpg"
-  },
-  {
     "full_name": "Erik Portillo",
     "position": "G",
     "birth_year": 2000,
@@ -318,6 +302,22 @@
     "jersey_number": 29,
     "profile_url": "https://theahl.com/player/5658",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5658.jpg"
+  },
+  {
+    "full_name": "Isaiah Saville",
+    "position": "G",
+    "birth_year": 2000,
+    "jersey_number": 49,
+    "profile_url": "https://theahl.com/player/9052",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/9052.jpg"
+  },
+  {
+    "full_name": "Hampton Slukynsky",
+    "position": "G",
+    "birth_year": 2005,
+    "jersey_number": 50,
+    "profile_url": "https://theahl.com/player/11050",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11050.jpg"
   },
   {
     "full_name": "Mattias Sholl",
