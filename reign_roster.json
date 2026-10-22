@@ -208,6 +208,14 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10616.jpg"
   },
   {
+    "full_name": "Michael Mastrodomenico",
+    "position": "D",
+    "birth_year": 2004,
+    "jersey_number": 14,
+    "profile_url": "https://theahl.com/player/10997",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10997.jpg"
+  },
+  {
     "full_name": "Kirill Kirsanov",
     "position": "D",
     "birth_year": 2002,
@@ -270,14 +278,6 @@
     "jersey_number": 74,
     "profile_url": "https://theahl.com/player/9930",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
-  },
-  {
-    "full_name": "Michael Mastrodomenico",
-    "position": "D",
-    "birth_year": 2004,
-    "jersey_number": 14,
-    "profile_url": "https://theahl.com/player/10997",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10997.jpg"
   },
   {
     "full_name": "Parker Berge",
