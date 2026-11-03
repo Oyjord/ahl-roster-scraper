@@ -16,14 +16,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/11051.jpg"
   },
   {
-    "full_name": "Kenny Connors",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 17,
-    "profile_url": "https://theahl.com/player/10705",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
-  },
-  {
     "full_name": "Glenn Gawdin",
     "position": "F",
     "birth_year": 1997,
@@ -46,6 +38,14 @@
     "jersey_number": 34,
     "profile_url": "https://theahl.com/player/9043",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9043.jpg"
+  },
+  {
+    "full_name": "Brendan Gorman",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 36,
+    "profile_url": "https://theahl.com/player/11021",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11021.jpg"
   },
   {
     "full_name": "Jacob Doty",
@@ -144,20 +144,20 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/7682.jpg"
   },
   {
+    "full_name": "Kenny Connors",
+    "position": "F",
+    "birth_year": 2003,
+    "jersey_number": 17,
+    "profile_url": "https://theahl.com/player/10705",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10705.jpg"
+  },
+  {
     "full_name": "Andre Lee",
     "position": "F",
     "birth_year": 2000,
     "jersey_number": 26,
     "profile_url": "https://theahl.com/player/9081",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9081.jpg"
-  },
-  {
-    "full_name": "Brendan Gorman",
-    "position": "F",
-    "birth_year": 2003,
-    "jersey_number": 36,
-    "profile_url": "https://theahl.com/player/11021",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/11021.jpg"
   },
   {
     "full_name": "Keaton Mastrodonato",
@@ -312,19 +312,19 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9052.jpg"
   },
   {
-    "full_name": "Hampton Slukynsky",
-    "position": "G",
-    "birth_year": 2005,
-    "jersey_number": 50,
-    "profile_url": "https://theahl.com/player/11050",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/11050.jpg"
-  },
-  {
     "full_name": "Mattias Sholl",
     "position": "G",
     "birth_year": 2000,
     "jersey_number": 33,
     "profile_url": "https://theahl.com/player/10714",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/10714.jpg"
+  },
+  {
+    "full_name": "Hampton Slukynsky",
+    "position": "G",
+    "birth_year": 2005,
+    "jersey_number": 50,
+    "profile_url": "https://theahl.com/player/11050",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/11050.jpg"
   }
 ]
