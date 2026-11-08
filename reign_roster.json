@@ -1,5 +1,13 @@
 [
   {
+    "full_name": "Martin Chromiak",
+    "position": "F",
+    "birth_year": 2002,
+    "jersey_number": 8,
+    "profile_url": "https://theahl.com/player/8714",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/8714.jpg"
+  },
+  {
     "full_name": "Koehn Ziemmer",
     "position": "F",
     "birth_year": 2004,
@@ -126,14 +134,6 @@
     "jersey_number": 86,
     "profile_url": "https://theahl.com/player/9241",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9241.jpg"
-  },
-  {
-    "full_name": "Martin Chromiak",
-    "position": "F",
-    "birth_year": 2002,
-    "jersey_number": 8,
-    "profile_url": "https://theahl.com/player/8714",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/8714.jpg"
   },
   {
     "full_name": "Akil Thomas",
