@@ -192,14 +192,6 @@
     "headshot": "https://assets.leaguestat.com/ahl/240x240/5478.jpg"
   },
   {
-    "full_name": "Otto Salin",
-    "position": "D",
-    "birth_year": 2004,
-    "jersey_number": 10,
-    "profile_url": "https://theahl.com/player/10567",
-    "headshot": "https://assets.leaguestat.com/ahl/240x240/10567.jpg"
-  },
-  {
     "full_name": "Tim Rego",
     "position": "D",
     "birth_year": 2000,
@@ -278,6 +270,14 @@
     "jersey_number": 74,
     "profile_url": "https://theahl.com/player/9930",
     "headshot": "https://assets.leaguestat.com/ahl/240x240/9930.jpg"
+  },
+  {
+    "full_name": "Otto Salin",
+    "position": "D",
+    "birth_year": 2004,
+    "jersey_number": 10,
+    "profile_url": "https://theahl.com/player/10567",
+    "headshot": "https://assets.leaguestat.com/ahl/240x240/10567.jpg"
   },
   {
     "full_name": "Parker Berge",
